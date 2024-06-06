@@ -1,0 +1,7 @@
+cmake==3.25.2
+dlib==19.24.2
+numpy
+pandas
+scikit-image==0.18.3
+opencv-python==4.5.4.58
+flask
